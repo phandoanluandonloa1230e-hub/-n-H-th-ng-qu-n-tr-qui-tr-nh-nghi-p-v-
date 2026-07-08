@@ -7,7 +7,6 @@
 - Phan Doãn Luân
 
 ## Cấu trúc
-
 - report/: Báo cáo
 - slides/: Slide thuyết trình
 - images/: Hình ảnh
